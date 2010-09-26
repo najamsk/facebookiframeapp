@@ -1,0 +1,7 @@
+D:\Projects\.net facebook apps\fbnajam\fbnajam\fbnajam\bin\fbnajam.dll
+D:\Projects\.net facebook apps\fbnajam\fbnajam\fbnajam\bin\fbnajam.pdb
+D:\Projects\.net facebook apps\fbnajam\fbnajam\fbnajam\bin\Facebook.dll
+D:\Projects\.net facebook apps\fbnajam\fbnajam\fbnajam\bin\Facebook.Web.dll
+D:\Projects\.net facebook apps\fbnajam\fbnajam\fbnajam\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\.net facebook apps\fbnajam\fbnajam\fbnajam\obj\Debug\fbnajam.dll
+D:\Projects\.net facebook apps\fbnajam\fbnajam\fbnajam\obj\Debug\fbnajam.pdb
